@@ -23,3 +23,15 @@ Color Detection is a Python tool that uses OpenCV to identify and highlight red,
 | `image1.jpg`         | Input image used for detection            |
 | `output_cd.png`      | Output image with detected color boxes    |
 
+
+## ▶️ How to Run
+
+| Step | Instruction                                                                 |
+|------|------------------------------------------------------------------------------|
+| 1️⃣   | Make sure you have Python installed                                         |
+| 2️⃣   | Install OpenCV with `pip install opencv-python`                            |
+| 3️⃣   | Place your input image as `image1.jpg` in the same folder                  |
+| 4️⃣   | Run the script using `python color_detection.py`                           |
+| 5️⃣   | The result will be shown in a window and saved as `output_cd.png`          |
+
+
